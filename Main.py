@@ -4,7 +4,7 @@ from UI import GridUI
 import tkinter as tk
 from Building import Building,Residence
 from Coordinate import Coordinate,PrintCoordinate
-
+# Devspace sample push
 
 def calculate_population(residence, all_residences):
     highrise_meta_data = Residence.get_highrise_meta_data(residence.tier)
