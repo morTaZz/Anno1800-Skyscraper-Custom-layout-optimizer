@@ -1,3 +1,5 @@
+mintier = 3
+
 import math
 from itertools import product
 from UI import GridUI
@@ -5,6 +7,7 @@ import tkinter as tk
 from Building import Building,Residence
 from Coordinate import Coordinate,PrintCoordinate
 # Devspace sample push
+
 
 def calculate_population(residence, all_residences):
     highrise_meta_data = Residence.get_highrise_meta_data(residence.tier)
@@ -68,7 +71,7 @@ def main():
         newresults.append((result[0] - minx,result[1]-miny))
 
     for xy in newresults:
-        residences.append(Residence(Coordinate(xy[0],xy[1]),tier=3))
+        residences.append(Residence(Coordinate(xy[0],xy[1]),tier=mintier))
 
     mintier = min(residence.tier for residence in residences)
 
