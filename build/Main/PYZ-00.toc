@@ -1,15 +1,12 @@
-('C:\\Users\\koula\\OneDrive\\Desktop\\Python\\Anno1800 '
- 'Scyscraper\\build\\Main\\PYZ-00.pyz',
+('C:\\Users\\koula\\OneDrive\\Desktop\\Main-Repos\\Anno1800\\Anno1800-Skyscraper-Custom-layout-optimizer\\build\\Main\\PYZ-00.pyz',
  [('Building',
-   'C:\\Users\\koula\\OneDrive\\Desktop\\Python\\Anno1800 '
-   'Scyscraper\\Building.py',
+   'C:\\Users\\koula\\OneDrive\\Desktop\\Main-Repos\\Anno1800\\Anno1800-Skyscraper-Custom-layout-optimizer\\Building.py',
    'PYMODULE'),
   ('Coordinate',
-   'C:\\Users\\koula\\OneDrive\\Desktop\\Python\\Anno1800 '
-   'Scyscraper\\Coordinate.py',
+   'C:\\Users\\koula\\OneDrive\\Desktop\\Main-Repos\\Anno1800\\Anno1800-Skyscraper-Custom-layout-optimizer\\Coordinate.py',
    'PYMODULE'),
   ('UI',
-   'C:\\Users\\koula\\OneDrive\\Desktop\\Python\\Anno1800 Scyscraper\\UI.py',
+   'C:\\Users\\koula\\OneDrive\\Desktop\\Main-Repos\\Anno1800\\Anno1800-Skyscraper-Custom-layout-optimizer\\UI.py',
    'PYMODULE'),
   ('_compat_pickle',
    'C:\\Program '
