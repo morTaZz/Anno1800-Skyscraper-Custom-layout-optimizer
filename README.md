@@ -9,7 +9,7 @@ https://github.com/Caracus/Anno1800Panorama
 # Usage
 For normal usage , you can run the Standalone executable from "dist\main.exe" and run it. this version calculates the best layout for sky scrapers with minimum tier of 3.
 
-<img width="364" alt="image" src="https://github.com/morTaZz/Anno1800-Skyscraper-Custom-layout-optimizer/assets/54067863/45539929-4383-422b-b492-33b9e6896e9a">
+<img width="364" align=center alt="image" src="https://github.com/morTaZz/Anno1800-Skyscraper-Custom-layout-optimizer/assets/54067863/45539929-4383-422b-b492-33b9e6896e9a">
 
 you can use the UI to put in your custom layout, note that you only need to put in the skyscrapers as nothing else would affect the panorama.
 
